@@ -2,9 +2,6 @@
 Representación de la aplicación móvil de la plataforma de streaming <a href="https://www.twitch.tv/. ">Twitch.TV ©</a>. <b>Esta aplicación es solo para estudios, sin fines de lucro</b>.
 ## Demostraciones
 
-Pagina principal:
-
-![alt text](https://github.com/PieroPR/LP5_Proyecto_Final_GRP_02_TEMA_8/blob/master/capturas/demostracion1.jpeg?raw=true)
 ## Tema Asignado
 Tema 8: App Clon de Twitch
 
